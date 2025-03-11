@@ -25,7 +25,7 @@ elif pilih == 3 :
     harga_barang = 50000
 elif pilih == 4 :
     nama_barang = "sutil"
-    harga_barang = 60000
+    harga_barang = 640000
 elif pilih == 5 :
     nama_barang = "cermin"
     harga_barang = 80000
