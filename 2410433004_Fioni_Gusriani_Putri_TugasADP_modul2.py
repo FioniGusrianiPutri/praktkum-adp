@@ -6,8 +6,8 @@ print("daftar barang yang di jual")
 print("1. galon - Rp. 78.000")
 print("2. sapu - Rp. 60.000")
 print("3. wajan - Rp. 50.000")
-print("4. sutil - Rp. 20.000")
-print("5. cermin - Rp. 60.000")
+print("4. sutil - Rp. 60.000")
+print("5. cermin - Rp. 80.000")
 print("6. rak sepatu - Rp. 50.000")
 
 #pilih barang
