@@ -1,13 +1,13 @@
 nama_barang = ["galon", "sapu", "wajan", "sutil", "cermin", "rak sepatu"]
-harga_satuan = ["78000, 20000, 50000, 20000, 80000, 50.000"]
+harga_satuan = ["78000, 60000, 50000, 60000, 80000, 50.000"]
 
 #tampilkan daftar barang
 print("daftar barang yang di jual")
 print("1. galon - Rp. 78.000")
-print("2. sapu - Rp. 20.000")
+print("2. sapu - Rp. 60.000")
 print("3. wajan - Rp. 50.000")
 print("4. sutil - Rp. 20.000")
-print("5. cermin - Rp. 80.000")
+print("5. cermin - Rp. 60.000")
 print("6. rak sepatu - Rp. 50.000")
 
 #pilih barang
@@ -19,13 +19,13 @@ if pilih == 1 :
     harga_satuan = 78000
 elif pilih == 2 :
     nama_barang = "sapu"
-    harga_satuan = 20000
+    harga_satuan = 60000
 elif pilih == 3 :
     nama_barang = "wajan"
     harga_barang = 50000
 elif pilih == 4 :
     nama_barang = "sutil"
-    harga_barang = 20000
+    harga_barang = 60000
 elif pilih == 5 :
     nama_barang = "cermin"
     harga_barang = 80000
